@@ -1,2 +1,2 @@
 #!/bin/bash
-echo type /tmp/imafile
+type /tmp/imafile
