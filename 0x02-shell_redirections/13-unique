@@ -1,2 +1,2 @@
 #!/bin/bash
-sort < listaDesordenadaRepetida | uniq  > listaOrdenada
+sort | uniq -u
