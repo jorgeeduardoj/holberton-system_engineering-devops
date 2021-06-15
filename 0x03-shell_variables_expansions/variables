@@ -1,0 +1,143 @@
+BASH=/usr/bin/bash
+BASHOPTS=checkwinsize:cmdhist:complete_fullquote:expand_aliases:extglob:extquote:force_fignore:globasciiranges:histappend:interactive_comments:progcomp:promptvars:sourcepath
+BASH_ALIASES=()
+BASH_ARGC=([0]="0")
+BASH_ARGV=()
+BASH_CMDS=()
+BASH_COMPLETION_VERSINFO=([0]="2" [1]="10")
+BASH_LINENO=()
+BASH_REMATCH=()
+BASH_SOURCE=()
+BASH_VERSINFO=([0]="5" [1]="0" [2]="17" [3]="1" [4]="release" [5]="x86_64-pc-linux-gnu")
+BASH_VERSION='5.0.17(1)-release'
+COLUMNS=159
+COMP_WORDBREAKS=' 	
+"'\''><=;|&(:'
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+DIRSTACK=()
+EUID=1000
+GROUPS=()
+HISTCONTROL=ignoreboth
+HISTFILE=/home/vagrant/.bash_history
+HISTFILESIZE=2000
+HISTSIZE=1000
+HOME=/home/vagrant
+HOSTNAME=ubuntu-focal
+HOSTTYPE=x86_64
+IFS=' 	
+'
+LANG=C.UTF-8
+LC_CTYPE=C.UTF-8
+LC_TERMINAL=iTerm2
+LC_TERMINAL_VERSION=3.4.8
+LESSCLOSE='/usr/bin/lesspipe %s %s'
+LESSOPEN='| /usr/bin/lesspipe %s'
+LINES=28
+LOGNAME=vagrant
+LS_COLORS='rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'
+MACHTYPE=x86_64-pc-linux-gnu
+MAIL=/var/mail/vagrant
+MAILCHECK=60
+MOTD_SHOWN=pam
+OLDPWD=/home/vagrant
+OPTERR=1
+OPTIND=1
+OSTYPE=linux-gnu
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+PIPESTATUS=([0]="0")
+POSIXLY_CORRECT=y
+PPID=357864
+PS1='\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+PS2='> '
+PS4='+ '
+PWD=/home/vagrant/holberton-system_engineering-devops/0x03-shell_variables_expansions
+SHELL=/bin/bash
+SHELLOPTS=braceexpand:emacs:hashall:histexpand:history:interactive-comments:monitor:posix
+SHLVL=3
+SSH_CLIENT='10.0.2.2 52690 22'
+SSH_CONNECTION='10.0.2.2 52690 10.0.2.15 22'
+SSH_TTY=/dev/pts/1
+TERM=xterm-256color
+UID=1000
+USER=vagrant
+XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_SESSION_CLASS=user
+XDG_SESSION_ID=150
+XDG_SESSION_TYPE=tty
+_=posix
+__git_all_commands=
+__git_am_inprogress_options='--skip --continue --resolved --abort --quit --show-current-patch'
+__git_cherry_pick_inprogress_options='--continue --quit --abort --skip'
+__git_cmds_with_parseopt_helper=
+__git_config_vars=
+__git_diff_algorithms='myers minimal patience histogram'
+__git_diff_common_options='--stat --numstat --shortstat --summary
+			--patch-with-stat --name-only --name-status --color
+			--no-color --color-words --no-renames --check
+			--full-index --binary --abbrev --diff-filter=
+			--find-copies-harder --ignore-cr-at-eol
+			--text --ignore-space-at-eol --ignore-space-change
+			--ignore-all-space --ignore-blank-lines --exit-code
+			--quiet --ext-diff --no-ext-diff
+			--no-prefix --src-prefix= --dst-prefix=
+			--inter-hunk-context=
+			--patience --histogram --minimal
+			--raw --word-diff --word-diff-regex=
+			--dirstat --dirstat= --dirstat-by-file
+			--dirstat-by-file= --cumulative
+			--diff-algorithm=
+			--submodule --submodule= --ignore-submodules
+			--indent-heuristic --no-indent-heuristic
+			--textconv --no-textconv
+'
+__git_diff_submodule_formats='diff log short'
+__git_fetch_recurse_submodules='yes on-demand no'
+__git_format_patch_extra_options='
+	--full-index --not --all --no-prefix --src-prefix=
+	--dst-prefix= --notes
+'
+__git_log_common_options='
+	--not --all
+	--branches --tags --remotes
+	--first-parent --merges --no-merges
+	--max-count=
+	--max-age= --since= --after=
+	--min-age= --until= --before=
+	--min-parents= --max-parents=
+	--no-min-parents --no-max-parents
+'
+__git_log_date_formats='relative iso8601 iso8601-strict rfc2822 short local default raw unix format:'
+__git_log_gitk_options='
+	--dense --sparse --full-history
+	--simplify-merges --simplify-by-decoration
+	--left-right --notes --no-notes
+'
+__git_log_pretty_formats='oneline short medium full fuller reference email raw format: tformat: mboxrd'
+__git_log_shortlog_options='
+	--author= --committer= --grep=
+	--all-match --invert-grep
+'
+__git_merge_strategies=
+__git_merge_strategy_options='ours theirs subtree subtree= patience
+	histogram diff-algorithm= ignore-space-change ignore-all-space
+	ignore-space-at-eol renormalize no-renormalize no-renames
+	find-renames find-renames= rename-threshold='
+__git_mergetools_common='diffuse diffmerge ecmerge emerge kdiff3 meld opendiff
+			tkdiff vimdiff gvimdiff xxdiff araxis p4merge bc
+			codecompare smerge
+'
+__git_patchformat='mbox stgit stgit-series hg mboxrd'
+__git_printf_supports_v=yes
+__git_push_recurse_submodules='check on-demand only'
+__git_rebase_inprogress_options='--continue --skip --abort --quit --show-current-patch'
+__git_rebase_interactive_inprogress_options='--continue --skip --abort --quit --show-current-patch --edit-todo'
+__git_ref_fieldlist='refname objecttype objectsize objectname upstream push HEAD symref'
+__git_revert_inprogress_options='--continue --quit --abort --skip'
+__git_send_email_confirm_options='always never auto cc compose'
+__git_send_email_suppresscc_options='author self cc bodycc sob cccmd body all'
+__git_sequencer_inprogress_options='--continue --quit --abort --skip'
+__git_untracked_file_modes='all no normal'
+__git_whitespacelist='nowarn warn error error-all fix'
+_backup_glob='@(#*#|*@(~|.@(bak|orig|rej|swp|dpkg*|rpm@(orig|new|save))))'
+_xspecs=([lokalize]="!*.po" [acroread]="!*.[pf]df" [lbzcat]="!*.?(t)bz?(2)" [mpg321]="!*.mp3" [bzcat]="!*.?(t)bz?(2)" [oocalc]="!*.@(sxc|stc|xls?([bmx])|xlw|xlt?([mx])|[ct]sv|?(f)ods|ots)" [tex]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [unlzma]="!*.@(tlz|lzma)" [sxemacs]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [aviplay]="!*.@(avi|asf|wmv)" [lbunzip2]="!*.?(t)bz?(2)" [dragon]="!*@(.@(mp?(e)g|MP?(E)G|wm[av]|WM[AV]|avi|AVI|asf|vob|VOB|bin|dat|divx|DIVX|vcd|ps|pes|fli|flv|FLV|fxm|FXM|viv|rm|ram|yuv|mov|MOV|qt|QT|web[am]|WEB[AM]|mp[234]|MP[234]|m?(p)4[av]|M?(P)4[AV]|mkv|MKV|og[agmvx]|OG[AGMVX]|t[ps]|T[PS]|m2t?(s)|M2T?(S)|mts|MTS|wav|WAV|flac|FLAC|asx|ASX|mng|MNG|srt|m[eo]d|M[EO]D|s[3t]m|S[3T]M|it|IT|xm|XM|iso|ISO)|+([0-9]).@(vdr|VDR))?(.@(crdownload|part))" [freeamp]="!*.@(mp3|og[ag]|pls|m3u)" [rgvim]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [ooimpress]="!*.@(sxi|sti|pps?(x)|ppt?([mx])|pot?([mx])|?(f)odp|otp)" [gqmpeg]="!*.@(mp3|og[ag]|pls|m3u)" [texi2html]="!*.texi*" [hbpp]="!*.@([Pp][Rr][Gg]|[Cc][Ll][Pp])" [lowriter]="!*.@(sxw|stw|sxg|sgl|doc?([mx])|dot?([mx])|rtf|txt|htm|html|?(f)odt|ott|odm|pdf)" [qiv]="!*.@(gif|jp?(e)g|tif?(f)|png|p[bgp]m|bmp|x[bp]m|rle|rgb|pcx|fits|pm|svg)" [xanim]="!*.@(mpg|mpeg|avi|mov|qt)" [ps2pdfwr]="!*.@(?(e)ps|pdf)" [harbour]="!*.@([Pp][Rr][Gg]|[Cc][Ll][Pp])" [jadetex]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [lodraw]="!*.@(sxd|std|sda|sdd|?(f)odg|otg)" [dvitype]="!*.dvi" [lobase]="!*.odb" [rpm2cpio]="!*.[rs]pm" [xine]="!*@(.@(mp?(e)g|MP?(E)G|wm[av]|WM[AV]|avi|AVI|asf|vob|VOB|bin|dat|divx|DIVX|vcd|ps|pes|fli|flv|FLV|fxm|FXM|viv|rm|ram|yuv|mov|MOV|qt|QT|web[am]|WEB[AM]|mp[234]|MP[234]|m?(p)4[av]|M?(P)4[AV]|mkv|MKV|og[agmvx]|OG[AGMVX]|t[ps]|T[PS]|m2t?(s)|M2T?(S)|mts|MTS|wav|WAV|flac|FLAC|asx|ASX|mng|MNG|srt|m[eo]d|M[EO]D|s[3t]m|S[3T]M|it|IT|xm|XM)|+([0-9]).@(vdr|VDR))?(.@(crdownload|part))" [lualatex]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [localc]="!*.@(sxc|stc|xls?([bmx])|xlw|xlt?([mx])|[ct]sv|?(f)ods|ots)" [hbrun]="!*.[Hh][Rr][Bb]" [amaya]="!*.@(?([xX]|[sS])[hH][tT][mM]?([lL]))" [gv]="!*.@(@(?(e)ps|?(E)PS|pdf|PDF)?(.gz|.GZ|.bz2|.BZ2|.Z))" [unpigz]="!*.@(Z|[gGdz]z|t[ag]z)" [mozilla]="!*.@(?([xX]|[sS])[hH][tT][mM]?([lL]))" [epdfview]="!*.pdf" [dvips]="!*.dvi" [pdfunite]="!*.pdf" [ps2pdf14]="!*.@(?(e)ps|pdf)" [kid3]="!*.@(mp[234c]|og[ag]|@(fl|a)ac|m4[abp]|spx|tta|w?(a)v|wma|aif?(f)|asf|ape)" [vi]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [ps2pdf]="!*.@(?(e)ps|pdf)" [gpdf]="!*.[pf]df" [lilypond]="!*.ly" [texi2dvi]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [modplug123]="!*.@(669|abc|am[fs]|d[bs]m|dmf|far|it|mdl|m[eo]d|mid?(i)|mt[2m]|oct|okt?(a)|p[st]m|s[3t]m|ult|umx|wav|xm)" [znew]="*.Z" [ps2pdf13]="!*.@(?(e)ps|pdf)" [ps2pdf12]="!*.@(?(e)ps|pdf)" [kwrite]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [latex]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [kate]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [pbzcat]="!*.?(t)bz?(2)" [poedit]="!*.po" [view]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [kid3-qt]="!*.@(mp[234c]|og[ag]|@(fl|a)ac|m4[abp]|spx|tta|w?(a)v|wma|aif?(f)|asf|ape)" [luatex]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [bunzip2]="!*.?(t)bz?(2)" [dvipdfm]="!*.dvi" [kbabel]="!*.po" [ly2dvi]="!*.ly" [oodraw]="!*.@(sxd|std|sda|sdd|?(f)odg|otg)" [bzme]="!*.@(zip|z|gz|tgz)" [rgview]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [pdftex]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [xemacs]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [zathura]="!*.@(cb[rz7t]|djv?(u)|?(e)ps|pdf)" [unxz]="!*.@(?(t)xz|tlz|lzma)" [rvim]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [madplay]="!*.mp3" [xetex]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [gvim]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [kaffeine]="!*@(.@(mp?(e)g|MP?(E)G|wm[av]|WM[AV]|avi|AVI|asf|vob|VOB|bin|dat|divx|DIVX|vcd|ps|pes|fli|flv|FLV|fxm|FXM|viv|rm|ram|yuv|mov|MOV|qt|QT|web[am]|WEB[AM]|mp[234]|MP[234]|m?(p)4[av]|M?(P)4[AV]|mkv|MKV|og[agmvx]|OG[AGMVX]|t[ps]|T[PS]|m2t?(s)|M2T?(S)|mts|MTS|wav|WAV|flac|FLAC|asx|ASX|mng|MNG|srt|m[eo]d|M[EO]D|s[3t]m|S[3T]M|it|IT|xm|XM|iso|ISO)|+([0-9]).@(vdr|VDR))?(.@(crdownload|part))" [dviselect]="!*.dvi" [kpdf]="!*.@(?(e)ps|pdf)" [bibtex]="!*.aux" [realplay]="!*.@(rm?(j)|ra?(m)|smi?(l))" [mpg123]="!*.mp3" [netscape]="!*.@(?([xX]|[sS])[hH][tT][mM]?([lL]))" [lzegrep]="!*.@(tlz|lzma)" [gview]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [kdvi]="!*.@(dvi|DVI)?(.@(gz|Z|bz2))" [xv]="!*.@(gif|jp?(e)g?(2)|j2[ck]|jp[2f]|tif?(f)|png|p[bgp]m|bmp|x[bp]m|rle|rgb|pcx|fits|pm|?(e)ps)" [lzfgrep]="!*.@(tlz|lzma)" [playmidi]="!*.@(mid?(i)|cmf)" [lzless]="!*.@(tlz|lzma)" [elinks]="!*.@(?([xX]|[sS])[hH][tT][mM]?([lL]))" [timidity]="!*.@(mid?(i)|rmi|rcp|[gr]36|g18|mod|xm|it|x3m|s[3t]m|kar)" [xdvi]="!*.@(dvi|DVI)?(.@(gz|Z|bz2))" [xfig]="!*.fig" [xpdf]="!*.@(pdf|fdf)?(.@(gz|GZ|bz2|BZ2|Z))" [lomath]="!*.@(sxm|smf|mml|odf)" [lzcat]="!*.@(tlz|lzma)" [compress]="*.Z" [pdfjadetex]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [kghostview]="!*.@(@(?(e)ps|?(E)PS|pdf|PDF)?(.gz|.GZ|.bz2|.BZ2|.Z))" [zcat]="!*.@(Z|[gGd]z|t[ag]z)" [pbunzip2]="!*.?(t)bz?(2)" [oobase]="!*.odb" [cdiff]="!*.@(dif?(f)|?(d)patch)?(.@([gx]z|bz2|lzma))" [gtranslator]="!*.po" [lynx]="!*.@(?([xX]|[sS])[hH][tT][mM]?([lL]))" [emacs]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [zipinfo]="!*.@(zip|[egjswx]ar|exe|pk3|wsz|zargo|xpi|s[tx][cdiw]|sx[gm]|o[dt][tspgfc]|od[bm]|oxt|epub|apk|aab|ipa|do[ct][xm]|p[op]t[mx]|xl[st][xm]|pyz|whl)" [xelatex]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [uncompress]="!*.Z" [xzcat]="!*.@(?(t)xz|tlz|lzma)" [unzip]="!*.@(zip|[egjswx]ar|exe|pk3|wsz|zargo|xpi|s[tx][cdiw]|sx[gm]|o[dt][tspgfc]|od[bm]|oxt|epub|apk|aab|ipa|do[ct][xm]|p[op]t[mx]|xl[st][xm]|pyz|whl)" [rview]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [ogg123]="!*.@(og[ag]|m3u|flac|spx)" [lrunzip]="!*.lrz" [lzgrep]="!*.@(tlz|lzma)" [slitex]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [vim]="*.@([ao]|so|so.!(conf|*/*)|[rs]pm|gif|jp?(e)g|mp3|mp?(e)g|avi|asf|ogg|class)" [ggv]="!*.@(@(?(e)ps|?(E)PS|pdf|PDF)?(.gz|.GZ|.bz2|.BZ2|.Z))" [ee]="!*.@(gif|jp?(e)g|miff|tif?(f)|pn[gm]|p[bgp]m|bmp|xpm|ico|xwd|tga|pcx)" [oomath]="!*.@(sxm|smf|mml|odf)" [aaxine]="!*@(.@(mp?(e)g|MP?(E)G|wm[av]|WM[AV]|avi|AVI|asf|vob|VOB|bin|dat|divx|DIVX|vcd|ps|pes|fli|flv|FLV|fxm|FXM|viv|rm|ram|yuv|mov|MOV|qt|QT|web[am]|WEB[AM]|mp[234]|MP[234]|m?(p)4[av]|M?(P)4[AV]|mkv|MKV|og[agmvx]|OG[AGMVX]|t[ps]|T[PS]|m2t?(s)|M2T?(S)|mts|MTS|wav|WAV|flac|FLAC|asx|ASX|mng|MNG|srt|m[eo]d|M[EO]D|s[3t]m|S[3T]M|it|IT|xm|XM)|+([0-9]).@(vdr|VDR))?(.@(crdownload|part))" [dvipdfmx]="!*.dvi" [advi]="!*.dvi" [gunzip]="!*.@(Z|[gGd]z|t[ag]z)" [makeinfo]="!*.texi*" [gharbour]="!*.@([Pp][Rr][Gg]|[Cc][Ll][Pp])" [okular]="!*.@(okular|@(?(e|x)ps|?(E|X)PS|[pf]df|[PF]DF|dvi|DVI|cb[rz]|CB[RZ]|djv?(u)|DJV?(U)|dvi|DVI|gif|jp?(e)g|miff|tif?(f)|pn[gm]|p[bgp]m|bmp|xpm|ico|xwd|tga|pcx|GIF|JP?(E)G|MIFF|TIF?(F)|PN[GM]|P[BGP]M|BMP|XPM|ICO|XWD|TGA|PCX|epub|EPUB|odt|ODT|fb?(2)|FB?(2)|mobi|MOBI|g3|G3|chm|CHM)?(.?(gz|GZ|bz2|BZ2|xz|XZ)))" [galeon]="!*.@(?([xX]|[sS])[hH][tT][mM]?([lL]))" [pdflatex]="!*.@(?(la)tex|texi|dtx|ins|ltx|dbj)" [lzmore]="!*.@(tlz|lzma)" [portecle]="!@(*.@(ks|jks|jceks|p12|pfx|bks|ubr|gkr|cer|crt|cert|p7b|pkipath|pem|p10|csr|crl)|cacerts)" [oowriter]="!*.@(sxw|stw|sxg|sgl|doc?([mx])|dot?([mx])|rtf|txt|htm|html|?(f)odt|ott|odm|pdf)" [loimpress]="!*.@(sxi|sti|pps?(x)|ppt?([mx])|pot?([mx])|?(f)odp|otp)" [epiphany]="!*.@(?([xX]|[sS])[hH][tT][mM]?([lL]))" [modplugplay]="!*.@(669|abc|am[fs]|d[bs]m|dmf|far|it|mdl|m[eo]d|mid?(i)|mt[2m]|oct|okt?(a)|p[st]m|s[3t]m|ult|umx|wav|xm)" [dvipdf]="!*.dvi" [dillo]="!*.@(?([xX]|[sS])[hH][tT][mM]?([lL]))" [fbxine]="!*@(.@(mp?(e)g|MP?(E)G|wm[av]|WM[AV]|avi|AVI|asf|vob|VOB|bin|dat|divx|DIVX|vcd|ps|pes|fli|flv|FLV|fxm|FXM|viv|rm|ram|yuv|mov|MOV|qt|QT|web[am]|WEB[AM]|mp[234]|MP[234]|m?(p)4[av]|M?(P)4[AV]|mkv|MKV|og[agmvx]|OG[AGMVX]|t[ps]|T[PS]|m2t?(s)|M2T?(S)|mts|MTS|wav|WAV|flac|FLAC|asx|ASX|mng|MNG|srt|m[eo]d|M[EO]D|s[3t]m|S[3T]M|it|IT|xm|XM)|+([0-9]).@(vdr|VDR))?(.@(crdownload|part))" )
